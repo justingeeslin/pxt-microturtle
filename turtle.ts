@@ -95,7 +95,7 @@ namespace turtle {
     /**
      * Turns right by 90 degrees
      */
-    //% blockId=turtleTurnRight block="turn right"
+    //% blockId=turtleTurnRight block="turn down for what"
     //% weight=88 blockGap=8
     export function turnRight(): void {
         turn(1);
