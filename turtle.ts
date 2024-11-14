@@ -105,7 +105,7 @@ namespace turtle {
      * Turtle takes a nap
      */
     //% blockId=turtleTakeNap block="take a nap"
-    //% weight=88 blockGap=8
+    //% weight=87 blockGap=8
     export function takeNap(): void {
         turn(1);
     }
