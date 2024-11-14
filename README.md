@@ -41,6 +41,14 @@ turtle.turnLeft()
 ```
 
 
+## turn left #turtle-takenap
+
+Turtle sets down his pen and takes a nap
+
+```sig
+turtle.takenap()
+```
+
 ## turn right #turtle-turnright
 
 Turns the turtle in a counter-clockwise fashion by 90 degrees.

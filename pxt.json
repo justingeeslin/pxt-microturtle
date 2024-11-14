@@ -1,10 +1,10 @@
 {
-    "name": "microturtle",
+    "name": "microturtle-jg",
     "version": "0.0.10",
+    "description": "A FORKED JG LOGO-like turtle library",
     "dependencies": {
         "core": "*"
     },
-    "description": "A FORKED JG LOGO-like turtle library",
     "files": [
         "turtle.ts",
         "README.md"
