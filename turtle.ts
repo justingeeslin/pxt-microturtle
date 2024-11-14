@@ -100,6 +100,15 @@ namespace turtle {
     export function turnRight(): void {
         turn(1);
     }
+    
+    /**
+     * Turtle takes a nap
+     */
+    //% blockId=turtleTakeNap block="take a nap"
+    //% weight=88 blockGap=8
+    export function takeNap(): void {
+        turn(1);
+    }
 
 
     /**
